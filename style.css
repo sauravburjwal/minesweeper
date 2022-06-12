@@ -1,3 +1,9 @@
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .container {
   width: 500px;
   align-content: center;
@@ -18,7 +24,7 @@
 div {
   font-size: 25px;
   text-align: center;
-  font-family: "Roboto Mono", monospace;
+  font-family: 'Roboto Mono', monospace;
 }
 .valid,
 .bomb {
